@@ -1,0 +1,6 @@
+README.md
+setup.py
+Face_Mask_Detection.egg-info/PKG-INFO
+Face_Mask_Detection.egg-info/SOURCES.txt
+Face_Mask_Detection.egg-info/dependency_links.txt
+Face_Mask_Detection.egg-info/top_level.txt
